@@ -353,5 +353,3 @@ echo ""
 
 print_info "To uninstall, run: ./uninstall.sh"
 echo ""
-print_warning "First run will download ML models (~1GB) for semantic detection"
-echo ""
